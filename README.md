@@ -14,4 +14,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 - `cdk synth` emits the synthesized CloudFormation template
 - `cdk watch` watches for code changes and hotswap deploys for fast deployments
 
-## Build with [CdkWorkshop](https://cdkworkshop.com/20-typescript.html)
+## Built with [CdkWorkshop](https://cdkworkshop.com/20-typescript.html)
